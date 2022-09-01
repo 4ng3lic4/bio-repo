@@ -1,1 +1,1 @@
-Student/index.html
+/Student/index.html
